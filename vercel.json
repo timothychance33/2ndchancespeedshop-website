@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/1959-chevrolet-corvette-restomod",
+      "destination": "/",
+      "statusCode": 301
+    }
+  ]
+}
